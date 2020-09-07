@@ -1,0 +1,39 @@
+D:\bayu\04\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\bayu\04\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+D:\bayu\04\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\bayu\04\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+D:\bayu\04\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+D:\bayu\04\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\bayu\04\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
+D:\bayu\04\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+D:\bayu\04\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
+D:\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+D:\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+D:\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+D:\FADHIL\Program c#\Pertemuan Ke 4\New folder\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\bin\Debug\BouncingBall.exe
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.exe
+D:\Kuliah\Portofolio\(S3) Program C#\Pertemuan Ke 4\BouncingBall\obj\Debug\BouncingBall.pdb
